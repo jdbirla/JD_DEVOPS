@@ -306,3 +306,58 @@
 
 ## 4.11 Knowledge Check
 
+---
+
+## Lesson 5 : Spotlight
+
+## 5.1 Kickstarting DevOps with VCS
+
+---
+## Lesson 6 : CI/CD with Jenkins
+
+## 6.1 Learning Objectives
+
+![Browser](Images/Screenshot_102.png)
+
+![Browser](Images/Screenshot_103.png)
+
+## 6.2 Overview of CI/CD
+![Browser](Images/Screenshot_104.png)
+
+## 6.3 Popular CI/CD Tools
+
+## 6.4 Introduction to Jenkins
+![Browser](Images/Screenshot_105.png)
+
+![Browser](Images/Screenshot_106.png)
+
+![Browser](Images/Screenshot_107.png)
+
+![Browser](Images/Screenshot_108.png)
+
+![Browser](Images/Screenshot_109.png)
+
+![Browser](Images/Screenshot_110.png)
+
+![Browser](Images/Screenshot_111.png)
+
+![Browser](Images/Screenshot_112.png)
+
+![Browser](Images/Screenshot_113.png)
+
+
+## 6.5 Setting Up Jenkins
+
+## 6.6 Integrate Jenkins with Tools Like Git and Maven
+
+## 6.7 Job Types in Jenkins
+
+## 6.8 Scheduling Jenkins Jobs
+
+## 6.9 Build Tools and Their Usage
+
+## 6.10 Demo - Continuous Integration with Maven
+
+## 6.11 Quick Recap
+
+## 6.12 Knowledge Check
