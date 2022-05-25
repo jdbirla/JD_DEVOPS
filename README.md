@@ -350,11 +350,31 @@
 
 ## 6.6 Integrate Jenkins with Tools Like Git and Maven
 
+
+
 ## 6.7 Job Types in Jenkins
 
 ## 6.8 Scheduling Jenkins Jobs
 
 ## 6.9 Build Tools and Their Usage
+
+![Browser](Images/Screenshot_114.png)
+
+![Browser](Images/Screenshot_115.png)
+
+![Browser](Images/Screenshot_116.png)
+
+![Browser](Images/Screenshot_117.png)
+
+![Browser](Images/Screenshot_118.png)
+
+![Browser](Images/Screenshot_119.png)
+
+![Browser](Images/Screenshot_120.png)
+
+![Browser](Images/Screenshot_121.png)
+
+![Browser](Images/Screenshot_122.png)
 
 ## 6.10 Demo - Continuous Integration with Maven
 
