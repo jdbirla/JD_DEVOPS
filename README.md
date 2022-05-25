@@ -231,11 +231,32 @@
 
 ![Browser](Images/Screenshot_85.png)
 
+![Browser](Images/Screenshot_86.png)
+
+
 
 ## Lesson 3.10 DevSecOps
+![Browser](Images/Screenshot_87.png)
+
+![Browser](Images/Screenshot_88.png)
+
+![Browser](Images/Screenshot_89.png)
+
+![Browser](Images/Screenshot_90.png)
+
+![Browser](Images/Screenshot_91.png)
+
+![Browser](Images/Screenshot_92.png)
+
+![Browser](Images/Screenshot_93.png)
 
 
 ## Lesson 3.11 DevOps on Cloud
+![Browser](Images/Screenshot_94.png)
+
+![Browser](Images/Screenshot_95.png)
+
+![Browser](Images/Screenshot_96.png)
 
 
 ## Lesson 3.12 Quick Recap
