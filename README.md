@@ -264,7 +264,37 @@
 ## Lesson 3.13 Knowledge Check
 
 ---
+## Lesson 4 : Version Control System
+
+## 4.1 Learning Objectives
 
 
+## 4.2 Overview of Version Control System
 
+
+## 4.3 Overview of Git
+
+
+## 4.4 Git Repository
+
+
+## 4.5 Life cycle of Git and Git Workflow
+
+
+## 4.6 Overview of GitHub
+
+
+## 4.7 Git vs. GitHub
+
+
+## 4.8 Git Commands
+
+
+## 4.9 Demo - Deploy Files to GitHub via Git
+
+
+## 4.10 Quick Recap
+
+
+## 4.11 Knowledge Check
 
