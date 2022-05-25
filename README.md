@@ -107,5 +107,68 @@
 ## Lesson 2.5 Knowledge Check:
 
 ---
+## Lesson 3 Introduction to DevOps
+
+## Lesson 3.1 Leanrnings Objectives
+
+![Browser](Images/Screenshot_35.png)
+
+## Lesson 3.2 DevOps Overview
+
+![Browser](Images/Screenshot_36.png)
+
+![Browser](Images/Screenshot_37.png)
+
+
+## Lesson 3.3 Tradional software Develipment approach: waterfall model
+
+![Browser](Images/Screenshot_38.png)
+
+![Browser](Images/Screenshot_39.png)
+
+![Browser](Images/Screenshot_40.png)
+
+![Browser](Images/Screenshot_41.png)
+
+
+## Lesson 3.4 Tradional software Develipment approach: Agile model
+
+![Browser](Images/Screenshot_42.png)
+
+![Browser](Images/Screenshot_43.png)
+
+![Browser](Images/Screenshot_44.png)
+
+![Browser](Images/Screenshot_45.png)
+
+## Lesson 3.5 Relationship between Agile and DevOps
+![Browser](Images/Screenshot_46.png)
+
+![Browser](Images/Screenshot_47.png)
+
+## Lesson 3.6 Principles of DevOps
+
+![Browser](Images/Screenshot_48.png)
+
+## Lesson 3.7 DevOps Lifecycle
+![Browser](Images/Screenshot_47.png)
+
+
+## Lesson 3.8 Categories of DevOps Tools
+
+
+## Lesson 3.9 Benefits of DevOps
+
+
+## Lesson 3.10 DevSecOps
+
+
+## Lesson 3.11 DevOps on Cloud
+
+
+## Lesson 3.12 Quick Recap
+
+## Lesson 3.13 Knowledge Check
+
 
 
