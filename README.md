@@ -256,12 +256,15 @@
 
 ![Browser](Images/Screenshot_95.png)
 
-![Browser](Images/Screenshot_96.png)
 
 
 ## Lesson 3.12 Quick Recap
+![Browser](Images/Screenshot_96.png)
 
 ## Lesson 3.13 Knowledge Check
+
+---
+
 
 
 
