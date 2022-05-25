@@ -279,6 +279,7 @@
 
 
 ## 4.5 Life cycle of Git and Git Workflow
+![Browser](Images/Screenshot_97.png)
 
 
 ## 4.6 Overview of GitHub
@@ -288,9 +289,16 @@
 
 
 ## 4.8 Git Commands
+![Browser](Images/Screenshot_98.png)
+
+![Browser](Images/Screenshot_99.png)
+
 
 
 ## 4.9 Demo - Deploy Files to GitHub via Git
+![Browser](Images/Screenshot_100.png)
+
+![Browser](Images/Screenshot_101.png)
 
 
 ## 4.10 Quick Recap
