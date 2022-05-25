@@ -150,8 +150,45 @@
 
 ![Browser](Images/Screenshot_48.png)
 
+![Browser](Images/Screenshot_49.png)
+
+![Browser](Images/Screenshot_50.png)
+
+![Browser](Images/Screenshot_51.png)
+
+![Browser](Images/Screenshot_52.png)
+
+![Browser](Images/Screenshot_53.png)
+
+![Browser](Images/Screenshot_54.png)
+
+![Browser](Images/Screenshot_55.png)
+
+
 ## Lesson 3.7 DevOps Lifecycle
-![Browser](Images/Screenshot_47.png)
+![Browser](Images/Screenshot_56.png)
+
+![Browser](Images/Screenshot_57.png)
+
+![Browser](Images/Screenshot_58.png)
+
+![Browser](Images/Screenshot_59.png)
+
+![Browser](Images/Screenshot_60.png)
+
+![Browser](Images/Screenshot_61.png)
+
+![Browser](Images/Screenshot_62.png)
+
+![Browser](Images/Screenshot_63.png)
+
+![Browser](Images/Screenshot_64.png)
+
+![Browser](Images/Screenshot_65.png)
+
+![Browser](Images/Screenshot_66.png)
+
+![Browser](Images/Screenshot_67.png)
 
 
 ## Lesson 3.8 Categories of DevOps Tools
