@@ -190,11 +190,46 @@
 
 ![Browser](Images/Screenshot_67.png)
 
+![Browser](Images/Screenshot_68.png)
+
 
 ## Lesson 3.8 Categories of DevOps Tools
 
+![Browser](Images/Screenshot_69.png)
+
+![Browser](Images/Screenshot_70.png)
+
+![Browser](Images/Screenshot_71.png)
+
+![Browser](Images/Screenshot_72.png)
+
+![Browser](Images/Screenshot_73.png)
+
+![Browser](Images/Screenshot_74.png)
+
+![Browser](Images/Screenshot_75.png)
+
+![Browser](Images/Screenshot_76.png)
 
 ## Lesson 3.9 Benefits of DevOps
+
+![Browser](Images/Screenshot_77.png)
+
+![Browser](Images/Screenshot_78.png)
+
+![Browser](Images/Screenshot_79.png)
+
+![Browser](Images/Screenshot_80.png)
+
+![Browser](Images/Screenshot_81.png)
+
+![Browser](Images/Screenshot_82.png)
+
+![Browser](Images/Screenshot_83.png)
+
+![Browser](Images/Screenshot_84.png)
+
+![Browser](Images/Screenshot_85.png)
 
 
 ## Lesson 3.10 DevSecOps
