@@ -503,3 +503,154 @@
 ## 7.10 Quick Recap
 
 ## 7.11 Knowledge Check
+
+---
+## Lesson 8 : Configuration Management with Ansible
+
+## 8.1 Learning Objectives
+![Browser](Images/Screenshot_168.png)
+
+![Browser](Images/Screenshot_169.png)
+
+## 8.2 Overview of Configuration Management
+![Browser](Images/Screenshot_170.png)
+
+![Browser](Images/Screenshot_171.png)
+
+![Browser](Images/Screenshot_172.png)
+
+![Browser](Images/Screenshot_173.png)
+
+![Browser](Images/Screenshot_174.png)
+
+![Browser](Images/Screenshot_175.png)
+
+![Browser](Images/Screenshot_176.png)
+
+
+## 8.3 Roles of Configuration Management Tools
+![Browser](Images/Screenshot_177.png)
+
+![Browser](Images/Screenshot_178.png)
+
+![Browser](Images/Screenshot_179.png)
+
+## 8.4 Popular Configuration Management Tools
+![Browser](Images/Screenshot_180.png)
+
+![Browser](Images/Screenshot_181.png)
+
+![Browser](Images/Screenshot_182.png)
+
+![Browser](Images/Screenshot_183.png)
+
+![Browser](Images/Screenshot_184.png)
+
+## 8.5 Ansible Overview
+![Browser](Images/Screenshot_185.png)
+
+![Browser](Images/Screenshot_186.png)
+
+![Browser](Images/Screenshot_187.png)
+
+![Browser](Images/Screenshot_188.png)
+
+![Browser](Images/Screenshot_189.png)
+
+![Browser](Images/Screenshot_190.png)
+
+![Browser](Images/Screenshot_191.png)
+
+![Browser](Images/Screenshot_192.png)
+
+![Browser](Images/Screenshot_193.png)
+
+![Browser](Images/Screenshot_194.png)
+
+![Browser](Images/Screenshot_195.png)
+
+
+## 8.6 Components of Ansible
+
+![Browser](Images/Screenshot_196.png)
+
+![Browser](Images/Screenshot_197.png)
+
+![Browser](Images/Screenshot_198.png)
+
+![Browser](Images/Screenshot_199.png)
+
+![Browser](Images/Screenshot_200.png)
+
+![Browser](Images/Screenshot_201.png)
+
+
+
+## 8.7 YAML Scripting
+
+![Browser](Images/Screenshot_202.png)
+
+## 8.8 Demo - Setup Apache Server with Ansible
+
+
+## 8.9 Terraform Overview
+![Browser](Images/Screenshot_203.png)
+
+![Browser](Images/Screenshot_204.png)
+
+![Browser](Images/Screenshot_205.png)
+
+![Browser](Images/Screenshot_206.png)
+
+![Browser](Images/Screenshot_207.png)
+
+![Browser](Images/Screenshot_208.png)
+
+![Browser](Images/Screenshot_209.png)
+
+
+
+## 8.10 Demo - S3 Bucket Creation Using Terraform
+
+
+## 8.11 Quick Recap
+
+
+## 8.12 Knowledge Check
+
+---
+
+## Lesson 9 :Spotlight
+
+## 9.1 Automating Integration and Testing
+
+---
+## Lesson 10 : Containerization with Docker
+
+## 10.1 Learning Objectives
+
+## 10.2 Overview of Containerization
+
+## 10.3 Containerization vs. Virtualization
+
+## 10.4 Docker Overview
+
+## 10.5 Docker Components
+
+## 10.6 Docker Installation
+
+## 10.7 Docker Image and Containers
+
+## 10.8 Docker Networking
+
+## 10.9 Docker Registry and Docker Hub
+
+## 10.10 Docker Compose Overview
+
+## 10.11 Demo - Push a Docker Image on Docker Hub
+
+## 10.12 Quick Recap
+
+## 10.13 Knowledge Check
+
+---
