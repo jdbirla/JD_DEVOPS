@@ -381,3 +381,125 @@
 ## 6.11 Quick Recap
 
 ## 6.12 Knowledge Check
+
+---
+## Lesson 7 : Software and Automation Testing Frameworks
+
+## 7.1 Learning Objectives
+
+## 7.2 Overview of Automation Testing
+
+## 7.3 Automation Testing Process and its Popular Tools
+
+![Browser](Images/Screenshot_123.png)
+
+![Browser](Images/Screenshot_124.png)
+
+![Browser](Images/Screenshot_125.png)
+
+![Browser](Images/Screenshot_126.png)
+
+![Browser](Images/Screenshot_127.png)
+
+![Browser](Images/Screenshot_128.png)
+
+![Browser](Images/Screenshot_129.png)
+
+![Browser](Images/Screenshot_130.png)
+
+![Browser](Images/Screenshot_131.png)
+
+![Browser](Images/Screenshot_132.png)
+
+![Browser](Images/Screenshot_133.png)
+
+![Browser](Images/Screenshot_134.png)
+
+
+## 7.4 Introduction to Selenium
+
+![Browser](Images/Screenshot_135.png)
+
+![Browser](Images/Screenshot_136.png)
+
+![Browser](Images/Screenshot_137.png)
+
+![Browser](Images/Screenshot_138.png)
+
+![Browser](Images/Screenshot_139.png)
+
+![Browser](Images/Screenshot_140.png)
+
+![Browser](Images/Screenshot_141.png)
+
+
+
+## 7.5 Selenium WebDriver Architecture
+
+![Browser](Images/Screenshot_142.png)
+
+![Browser](Images/Screenshot_143.png)
+
+![Browser](Images/Screenshot_144.png)
+
+![Browser](Images/Screenshot_145.png)
+
+![Browser](Images/Screenshot_146.png)
+
+![Browser](Images/Screenshot_147.png)
+
+![Browser](Images/Screenshot_148.png)
+
+![Browser](Images/Screenshot_149.png)
+
+## 7.6 Installation
+![Browser](Images/Screenshot_150.png)
+
+![Browser](Images/Screenshot_151.png)
+
+![Browser](Images/Screenshot_152.png)
+
+![Browser](Images/Screenshot_153.png)
+
+![Browser](Images/Screenshot_154.png)
+
+![Browser](Images/Screenshot_155.png)
+
+![Browser](Images/Screenshot_156.png)
+
+## 7.7 Demo - Automate Search Run First Test Case Using Selenium
+
+![Browser](Images/Screenshot_157.png)
+
+![Browser](Images/Screenshot_158.png)
+
+![Browser](Images/Screenshot_159.png)
+
+![Browser](Images/Screenshot_160.png)
+
+
+
+
+## 7.8 Overview of Selenium Test Framework
+
+![Browser](Images/Screenshot_161.png)
+
+![Browser](Images/Screenshot_162.png)
+
+![Browser](Images/Screenshot_163.png)
+
+![Browser](Images/Screenshot_164.png)
+
+![Browser](Images/Screenshot_165.png)
+
+
+## 7.9 Selenium with Jenkins Integration
+![Browser](Images/Screenshot_166.png)
+
+![Browser](Images/Screenshot_167.png)
+
+
+
+## 7.10 Quick Recap
+
+## 7.11 Knowledge Check
