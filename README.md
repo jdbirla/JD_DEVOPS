@@ -629,28 +629,126 @@
 
 ## 10.1 Learning Objectives
 
+
 ## 10.2 Overview of Containerization
 
 ## 10.3 Containerization vs. Virtualization
 
+![Browser](Images/Screenshot_210.png)
+
+![Browser](Images/Screenshot_211.png)
+
+
 ## 10.4 Docker Overview
 
 ## 10.5 Docker Components
+![Browser](Images/Screenshot_211.png)
+
+![Browser](Images/Screenshot_212.png)
+
+![Browser](Images/Screenshot_213.png)
+
+![Browser](Images/Screenshot_214.png)
+
+![Browser](Images/Screenshot_215.png)
+
+![Browser](Images/Screenshot_216.png)
+
+![Browser](Images/Screenshot_217.png)
+
+![Browser](Images/Screenshot_218.png)
+
+![Browser](Images/Screenshot_219.png)
+
+![Browser](Images/Screenshot_220.png)
+
+![Browser](Images/Screenshot_221.png)
+
+![Browser](Images/Screenshot_222.png)
+
+![Browser](Images/Screenshot_223.png)
+
+![Browser](Images/Screenshot_224.png)
+
+![Browser](Images/Screenshot_225.png)
 
 ## 10.6 Docker Installation
 
 ## 10.7 Docker Image and Containers
+![Browser](Images/Screenshot_226.png)
+
+![Browser](Images/Screenshot_227.png)
+
+![Browser](Images/Screenshot_228.png)
+
+![Browser](Images/Screenshot_229.png)
+
 
 ## 10.8 Docker Networking
+![Browser](Images/Screenshot_230.png)
+
+![Browser](Images/Screenshot_231.png)
+
+![Browser](Images/Screenshot_232.png)
+
+![Browser](Images/Screenshot_233.png)
+
+![Browser](Images/Screenshot_234.png)
+
+![Browser](Images/Screenshot_235.png)
+
+![Browser](Images/Screenshot_236.png)
+
+![Browser](Images/Screenshot_237.png)
+
+![Browser](Images/Screenshot_238.png)
+
+![Browser](Images/Screenshot_239.png)
+
+![Browser](Images/Screenshot_240.png)
 
 ## 10.9 Docker Registry and Docker Hub
+![Browser](Images/Screenshot_241.png)
+
+![Browser](Images/Screenshot_242.png)
+
 
 ## 10.10 Docker Compose Overview
+![Browser](Images/Screenshot_243.png)
+
+![Browser](Images/Screenshot_244.png)
+
+![Browser](Images/Screenshot_245.png)
+
+![Browser](Images/Screenshot_246.png)
 
 ## 10.11 Demo - Push a Docker Image on Docker Hub
 
 ## 10.12 Quick Recap
 
 ## 10.13 Knowledge Check
+
+---
+## Lesson 11 : Continuous Monitoring
+
+## 11.1 Learning Objectives
+
+
+## 11.2 Overview of Continuous Monitoring
+
+
+## 11.3 Nagios Overview
+
+## 11.4 Nagios Plugins
+
+## 11.5 Monitoring with Nagios
+
+## 11.6 ELK Stack Overview
+
+## 11.7 Demo - Monitoring Using ELK Stack
+
+## 11.8 Quick Recap
+
+## 11.9 Knowledge Check
 
 ---
