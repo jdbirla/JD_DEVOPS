@@ -821,3 +821,203 @@
 ## 11.9 Knowledge Check
 
 ---
+## Lesson 12 : Continuous Orchestration Using Kubernetes
+
+## 12.1 Learning Objectives
+
+## 12.2 Container Orchestration
+
+![Browser](Images/Screenshot_278.png)
+
+![Browser](Images/Screenshot_279.png)
+
+![Browser](Images/Screenshot_280.png)
+
+![Browser](Images/Screenshot_281.png)
+
+![Browser](Images/Screenshot_282.png)
+
+![Browser](Images/Screenshot_283.png)
+
+![Browser](Images/Screenshot_284.png)
+
+![Browser](Images/Screenshot_285.png)
+
+![Browser](Images/Screenshot_286.png)
+
+
+## 12.3 Kubernetes Overview
+![Browser](Images/Screenshot_287.png)
+
+![Browser](Images/Screenshot_288.png)
+
+![Browser](Images/Screenshot_289.png)
+
+![Browser](Images/Screenshot_290.png)
+
+
+## 12.4 Kubernetes Components
+
+![Browser](Images/Screenshot_291.png)
+
+![Browser](Images/Screenshot_292.png)
+
+![Browser](Images/Screenshot_293.png)
+
+![Browser](Images/Screenshot_294.png)
+
+![Browser](Images/Screenshot_295.png)
+
+![Browser](Images/Screenshot_296.png)
+
+![Browser](Images/Screenshot_297.png)
+
+![Browser](Images/Screenshot_298.png)
+
+![Browser](Images/Screenshot_299.png)
+
+![Browser](Images/Screenshot_300.png)
+
+![Browser](Images/Screenshot_301.png)
+
+![Browser](Images/Screenshot_302.png)
+
+
+
+## 12.5 Kubernetes Architecture
+![Browser](Images/Screenshot_303.png)
+
+![Browser](Images/Screenshot_304.png)
+
+![Browser](Images/Screenshot_305.png)
+
+![Browser](Images/Screenshot_306.png)
+
+![Browser](Images/Screenshot_307.png)
+
+
+
+## 12.6 Kubernetes Installation
+![Browser](Images/Screenshot_308.png)
+
+![Browser](Images/Screenshot_309.png)
+
+![Browser](Images/Screenshot_310.png)
+
+
+## 12.7 Kubernetes Basics - Part One ## 12.8 Kubernetes Basics - Part Two
+![Browser](Images/Screenshot_311.png)
+
+![Browser](Images/Screenshot_312.png)
+
+![Browser](Images/Screenshot_313.png)
+
+![Browser](Images/Screenshot_314.png)
+
+![Browser](Images/Screenshot_315.png)
+
+![Browser](Images/Screenshot_316.png)
+
+![Browser](Images/Screenshot_317.png)
+
+![Browser](Images/Screenshot_318.png)
+
+![Browser](Images/Screenshot_319.png)
+
+![Browser](Images/Screenshot_320.png)
+
+![Browser](Images/Screenshot_321.png)
+
+![Browser](Images/Screenshot_322.png)
+
+![Browser](Images/Screenshot_323.png)
+
+![Browser](Images/Screenshot_324.png)
+
+![Browser](Images/Screenshot_325.png)
+
+![Browser](Images/Screenshot_326.png)
+
+![Browser](Images/Screenshot_327.png)
+
+![Browser](Images/Screenshot_328.png)
+
+![Browser](Images/Screenshot_329.png)
+
+![Browser](Images/Screenshot_330.png)
+
+![Browser](Images/Screenshot_331.png)
+
+![Browser](Images/Screenshot_332.png)
+
+![Browser](Images/Screenshot_333.png)
+
+![Browser](Images/Screenshot_334.png)
+
+![Browser](Images/Screenshot_335.png)
+
+![Browser](Images/Screenshot_336.png)
+
+![Browser](Images/Screenshot_337.png)
+
+
+## 12.9 Kubernetes Networking and Storage
+
+![Browser](Images/Screenshot_339.png)
+
+![Browser](Images/Screenshot_340.png)
+
+![Browser](Images/Screenshot_341.png)
+
+![Browser](Images/Screenshot_342.png)
+
+![Browser](Images/Screenshot_343.png)
+
+![Browser](Images/Screenshot_344.png)
+
+
+## 12.10 Kubernetes Configuration
+
+![Browser](Images/Screenshot_345.png)
+
+![Browser](Images/Screenshot_346.png)
+
+![Browser](Images/Screenshot_347.png)
+
+![Browser](Images/Screenshot_348.png)
+
+![Browser](Images/Screenshot_349.png)
+
+![Browser](Images/Screenshot_350.png)
+
+## 12.11 Interacting with a Kubernetes Cluster
+![Browser](Images/Screenshot_351.png)
+
+![Browser](Images/Screenshot_352.png)
+
+![Browser](Images/Screenshot_353.png)
+
+![Browser](Images/Screenshot_354.png)
+
+![Browser](Images/Screenshot_355.png)
+
+## 12.12 Demo - Exploring a Kube Cluster
+
+## 12.13 Quick Recap
+
+## 12.14 Knowledge Check
+
+---
+## Lesson 13 : Spotlight
+
+## 13.1 Delivering The DevOps Way
+
+
+---
+## Lesson 14 :Practice Project
+
+## 14.1 Practice Project: Deploy Angular Application in Docker Container
+
+## 14.2 Practice Project: Deployment of WordPress Application on Kubernetes
+
+---
