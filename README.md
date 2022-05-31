@@ -736,16 +736,85 @@
 
 ## 11.2 Overview of Continuous Monitoring
 
+![Browser](Images/Screenshot_247.png)
+
+![Browser](Images/Screenshot_248.png)
+
+![Browser](Images/Screenshot_249.png)
+
+![Browser](Images/Screenshot_250.png)
+
+![Browser](Images/Screenshot_251.png)
+
+![Browser](Images/Screenshot_252.png)
+
+![Browser](Images/Screenshot_253.png)
+
+
 
 ## 11.3 Nagios Overview
 
+![Browser](Images/Screenshot_254.png)
+
+![Browser](Images/Screenshot_255.png)
+
+![Browser](Images/Screenshot_256.png)
+
+![Browser](Images/Screenshot_257.png)
+
+![Browser](Images/Screenshot_258.png)
+
+![Browser](Images/Screenshot_259.png)
+
+
 ## 11.4 Nagios Plugins
+![Browser](Images/Screenshot_260.png)
+
+![Browser](Images/Screenshot_261.png)
+
+![Browser](Images/Screenshot_262.png)
+
+![Browser](Images/Screenshot_263.png)
+
+![Browser](Images/Screenshot_264.png)
+
 
 ## 11.5 Monitoring with Nagios
 
+![Browser](Images/Screenshot_265.png)
+
+![Browser](Images/Screenshot_266.png)
+
+
 ## 11.6 ELK Stack Overview
 
+![Browser](Images/Screenshot_267.png)
+
+![Browser](Images/Screenshot_268.png)
+
+![Browser](Images/Screenshot_269.png)
+
+![Browser](Images/Screenshot_270.png)
+
+![Browser](Images/Screenshot_271.png)
+
+![Browser](Images/Screenshot_272.png)
+
+![Browser](Images/Screenshot_273.png)
+
+![Browser](Images/Screenshot_274.png)
+
+
+
 ## 11.7 Demo - Monitoring Using ELK Stack
+
+![Browser](Images/Screenshot_275.png)
+
+![Browser](Images/Screenshot_276.png)
+
+![Browser](Images/Screenshot_277.png)
+
+
 
 ## 11.8 Quick Recap
 
